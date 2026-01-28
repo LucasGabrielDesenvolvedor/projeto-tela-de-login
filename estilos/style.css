@@ -86,7 +86,7 @@ section#login {
                 border: 0px;
                 border-radius: 8px;
                 padding: 4px;
-                transform: translateY(-12px);
+                transform: translateY(-14px);
             }
 
             & input:focus-within {
